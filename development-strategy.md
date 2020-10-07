@@ -1,6 +1,6 @@
 # Development Strategy
 
-> `app-theme`
+> `app-theme-`
 
 - Project's Description:
 
