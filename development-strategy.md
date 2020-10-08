@@ -14,7 +14,7 @@ This is a soft and lovely theme with some gorgeous customizable icons oriented f
 
 ## Wireframe
 - [Home page](https://wireframe.cc/Amd3DJ)
-- [About](https://wireframe.cc/kGaIXV)
+- [About](https://wireframe.cc/kGalXV)
 - [Services](https://wireframe.cc/z3znq7)
 - [Contact](https://wireframe.cc/T9j2qt)
 
@@ -22,7 +22,7 @@ In progress
 
 ## 0. Set-Up
 
-[repository and live demo](https://rago89.github.io/app-theme/.)
+[repository and live demo](https://brainketunze.github.io/app-theme-/)
 
 ### Repo
 
