@@ -105,7 +105,7 @@ Which branch(es) you need to create for the project?
    - Pull the new master branch to your computer
    - Continue to the next step
 
-## 4.Finishing Touches
+## 4. Finishing Touches
 
 Improving Readme with the link below.
 
