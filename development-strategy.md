@@ -48,7 +48,7 @@ Which branch(es) you need to create for the project?
 - 3-services branch
 - 4-contact branch
 
-## 1. Home page. 
+## 2. Home page. 
 
 ### HTML
    - Creating the branch on index (1-home), create the file `index.html` and open VS.
@@ -67,7 +67,7 @@ Which branch(es) you need to create for the project?
    - Add flexboxgrip.css also
    - Add font-awesome.css
    
-## 2. about page. 
+## 3. About page. 
 
 ### HTML
    - Create about page with the file `about.html` branch 2-about and open VS..
@@ -86,7 +86,7 @@ Which branch(es) you need to create for the project?
 3. Add the file `style.css`
    - Style the html page with colors, backgroung, margin, font-size, padding border's etc...;
 
-## 3. Services page
+## 4. Services page
    - In the Services page create a file name `services.html` branch 3-services and open VS..
    - All the codes from index.html remain thesame in company and footer section
    - Creat subheader with title Services
@@ -103,7 +103,7 @@ Which branch(es) you need to create for the project?
 3. Add the file `style.css`
    - Style the html page with colors, backgroung, margin, font-size, padding border's etc...;
 
-## 4. contact page
+## 5. contact page
    - Create a file name `contact.html` branch 4-contact and open VS..
    - All the codes from index.html remain thesame in company and footer section
    - Creat subheader with title Conatct
@@ -120,7 +120,7 @@ Which branch(es) you need to create for the project?
 3. Add the file `style.css`
    - Style the html page with colors, backgroung, margin, font-size, padding border's etc...;
   
-## 4. Terminal
+## 6. Terminal
 
 1. Set up your repository and clone it
 2. Write a development strategy
@@ -138,7 +138,7 @@ Which branch(es) you need to create for the project?
    - Pull the new master branch to your computer
    - Continue to the next step
 
-## 5. Finishing Touches
+## 7. Finishing Touches
 
 Improving Readme with the link below.
 
