@@ -38,7 +38,7 @@ In progress
 
 - Working with _app-theme tutorials from Traversy Media_
 
-## 2. Branches
+### Branches
 
 Which branch(es) you need to create for the project?
 
