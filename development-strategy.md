@@ -62,8 +62,8 @@ Which branch(es) you need to create for the project?
 2. Create about page with the file `about.html` branch 2-about.
 
    - Retain the Header and nav menu from index.html.
-   - Create now subheader with *about title*.
-   - On the description page create the section with _Who We Are_ and _What We Do_.
+   - Create now subheader with **about title**.
+   - On the description page create the section with **Who We Are** and **What We Do**.
    - The company and footer section remain thesame from index.html.
 
 3. In the Services page create a file name `services.html` branch 3-services.
@@ -105,7 +105,7 @@ Which branch(es) you need to create for the project?
    - Pull the new master branch to your computer
    - Continue to the next step
 
-## 3.Finishing Touches
+## 4.Finishing Touches
 
 Improving Readme with the link below.
 
