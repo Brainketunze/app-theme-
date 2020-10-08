@@ -26,14 +26,14 @@ In progress
 
 ### Repo
 
-- Generate Template from repo
-- Write initial, basic README
-- Turn on GitHub Pages
-- Clone the repo locally
-- Edit development strategy locally or in github
-- Add, commit, push or pull to github or locally to serve the work
+  - Generate Template from repo
+  - Write initial, basic README
+  - Turn on GitHub Pages
+  - Clone the repo locally
+  - Edit development strategy locally or in github
+  - Add, commit, push or pull to github or locally to serve the work
 
-## 1. Full user story description
+### 1. Full user story description
 
 1. Working with _app-theme tutorials from Traversy Media_
 
@@ -41,39 +41,39 @@ In progress
 
 2. Create the home page with file name `index.html`.
 
-- On the file index.html, create a Header and Nav menu,
-- _Showcase's_ section
-- Create a section page with some core features for the project.
-- Create info section for the mobile and core featues
-- Create a section with a resume of the _Company's info and Newsletter_.
-- Create a footer with a Copyright.
+   - On the file index.html, create a Header and Nav menu,
+   - _Showcase's_ section
+   - Create a section page with some core features for the project.
+   - Create info section for the mobile and core featues
+   - Create a section with a resume of the _Company's info and Newsletter_.
+   - Create a footer with a Copyright.
 
 3. Create about page with the file `about.html`.
 
-- Retain the Header and nav menu from index.html.
-- Create now subheader with *about title*.
-- On the description page create the section with **Who We Are** and _What We Do_.
-- The company and footer section remain thesame from index.html.
+   - Retain the Header and nav menu from index.html.
+   - Create now subheader with *about title*.
+   - On the description page create the section with **Who We Are** and _What We Do_.
+   - The company and footer section remain thesame from index.html.
 
 4. In the Services page create a file name `services.html`.
 
-- All the codes from index.html remain thesame in company and footer section
-- Creat subheader with title Services
-- In this section create services that they offered and describe them.
+   - All the codes from index.html remain thesame in company and footer section
+   - Creat subheader with title Services
+   - In this section create services that they offered and describe them.
 
 5. In the Contact page create a file name `contact.html`.
 
-- All the codes from index.html remain thesame in company and footer section
-- Creat subheader with title Conatct
-- In this section create Get in Touch with the company.
+   - All the codes from index.html remain thesame in company and footer section
+   - Creat subheader with title Conatct
+   - In this section create Get in Touch with the company.
 
 ### CSS
 1. Add file `flexboxgrid.css`
-  - The flexboxgrip works together with responsive model's mode in each html file.
+   - The flexboxgrip works together with responsive model's mode in each html file.
 2. Add files of `font-awesomes.css` for each html files.
-  - They add core feature's Logo's in index.file in the project
+   - They add core feature's Logo's in index.file in the project
 3. Add the file `style.css`
-  - Style the html page with colors, backgroung, margin, font-size, padding border's etc...;
+   - Style the html page with colors, backgroung, margin, font-size, padding border's etc...;
   
 ## 2. Terminal
 
