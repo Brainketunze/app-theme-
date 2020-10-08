@@ -25,7 +25,7 @@ In progress
 
 [repository and live demo](https://brainketunze.github.io/app-theme-/)
 
-### Repo
+#### Repo
 
   - Generate Template from repo
   - Write initial, basic README
@@ -38,19 +38,18 @@ In progress
 
 - Working with _app-theme tutorials from Traversy Media_
 
-### Branches
-
+#### Branches
 Which branch(es) you need to create for the project?
-
 - **master** 
 - 1-index branch  
 - 2-about branch  
 - 3-services branch
 - 4-contact branch
 
-## 2. Home page. 
+##### 1. Information for Home page. 
 
-### HTML
+__HTML__
+
    - Creating the branch on index (1-home), create the file `index.html` and open VS.
    - On the file index.html, create a Header and Nav menu,
    - _Showcase's_ section
@@ -61,15 +60,17 @@ Which branch(es) you need to create for the project?
    - Push changes to github using git bash terminal.
    - Create Projection boards
    
-### Css
+__Css__
+
    - Create CSS folder
    - Add `style.css` and styling elements
    - Add flexboxgrip.css also
    - Add font-awesome.css
    
-## 3. About page. 
+##### 2. About page info. 
 
-### HTML
+__HTML__
+
    - Create about page with the file `about.html` branch 2-about and open VS..
    - Retain the Header and nav menu from index.html.
    - Create now subheader with **about title**.
@@ -78,7 +79,7 @@ Which branch(es) you need to create for the project?
    - Push changes to github using git bash terminal.
    - Create Projection boards
    
-### CSS
+__CSS__
 1. Add file `flexboxgrid.css`
    - The flexboxgrip works together with responsive model's mode in each html file.
 2. Add files of `font-awesomes.css` for each html files.
@@ -86,7 +87,8 @@ Which branch(es) you need to create for the project?
 3. Add the file `style.css`
    - Style the html page with colors, backgroung, margin, font-size, padding border's etc...;
 
-## 4. Services page
+##### 3. Services page
+__html__
    - In the Services page create a file name `services.html` branch 3-services and open VS..
    - All the codes from index.html remain thesame in company and footer section
    - Creat subheader with title Services
@@ -94,7 +96,7 @@ Which branch(es) you need to create for the project?
    - Push changes to github using git bash terminal.
    - Create Projection boards
    
-### CSS
+__CSS__
    
 1. Add file `flexboxgrid.css`
    - The flexboxgrip works together with responsive model's mode in each html file.
@@ -103,7 +105,10 @@ Which branch(es) you need to create for the project?
 3. Add the file `style.css`
    - Style the html page with colors, backgroung, margin, font-size, padding border's etc...;
 
-## 5. contact page
+##### 4. contact page
+
+__html__
+
    - Create a file name `contact.html` branch 4-contact and open VS..
    - All the codes from index.html remain thesame in company and footer section
    - Creat subheader with title Conatct
@@ -111,7 +116,7 @@ Which branch(es) you need to create for the project?
    - Push changes to github using git bash terminal.
    - Create Projection boards
 
-### CSS
+__CSS__
 
 1. Add file `flexboxgrid.css`
    - The flexboxgrip works together with responsive model's mode in each html file.
@@ -119,13 +124,16 @@ Which branch(es) you need to create for the project?
    - They add core feature's Logo's in index.file in the project
 3. Add the file `style.css`
    - Style the html page with colors, backgroung, margin, font-size, padding border's etc...;
-  
-## 6. Terminal
+   
+#### Images and CSS folder and Fonts
 
-1. Set up your repository and clone it
-2. Write a development strategy
-3. Set up a project board on your repo
-4. Create one issue per step, move them to the board
+These folders from the titurials `app-theme` were push to github repo with the git bash terminal commit.
+  
+## 2. Creating project board 
+
+* Using a basic kanban templates to create the `To Do` list with all the task that need to branches and files etc...
+* turning a task to an issue
+* Create one issue per step, move them to the board
    for each step
    - Move that issue into in progress
    - Create a new branch for each page locally
@@ -138,9 +146,10 @@ Which branch(es) you need to create for the project?
    - Pull the new master branch to your computer
    - Continue to the next step
 
-## 7. Finishing Touches
+## 3. Finishing Touches
 
 Improving Readme with the link below.
-
-- [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
+  - [makeareadme.com](https://www.makeareadme.com/)
+  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
 - Validate code to check for any last mistakes
