@@ -32,6 +32,16 @@ In progress
   - Clone the repo locally
   - Edit development strategy locally or in github
   - Add, commit, push or pull to github or locally to serve the work
+  
+  ### Branches
+
+Which branch(es) to work on?
+
+- master 
+- index  
+- about  
+- services
+- contact
 
 ### 1. Full user story description
 
