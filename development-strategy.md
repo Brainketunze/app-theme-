@@ -38,17 +38,17 @@ In progress
 
 - Working with _app-theme tutorials from Traversy Media_
 
-### 1. Branches
+## 2. Branches
 
 Which branch(es) you need to create for the project?
 
-- master 
-- index  
-- about  
-- services
-- contact
+- **master 
+- 1-index branch  
+- 2-about branch  
+- 3-services branch
+- 4-contact branch
 
-### 2. HTML
+### 1. HTML
 
 1. After creating the branch on index (1-home), create the file `index.html`.
 
@@ -63,7 +63,7 @@ Which branch(es) you need to create for the project?
 
    - Retain the Header and nav menu from index.html.
    - Create now subheader with *about title*.
-   - On the description page create the section with **Who We Are** and _What We Do_.
+   - On the description page create the section with _Who We Are_ and _What We Do_.
    - The company and footer section remain thesame from index.html.
 
 3. In the Services page create a file name `services.html` branch 3-services.
@@ -78,7 +78,7 @@ Which branch(es) you need to create for the project?
    - Creat subheader with title Conatct
    - In this section create Get in Touch with the company.
 
-### 3. CSS
+### 2. CSS
 
 1. Add file `flexboxgrid.css`
    - The flexboxgrip works together with responsive model's mode in each html file.
@@ -87,7 +87,7 @@ Which branch(es) you need to create for the project?
 3. Add the file `style.css`
    - Style the html page with colors, backgroung, margin, font-size, padding border's etc...;
   
-## 2. Terminal
+## 3. Terminal
 
 1. Set up your repository and clone it
 2. Write a development strategy
