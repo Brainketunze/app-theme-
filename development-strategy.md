@@ -42,7 +42,7 @@ In progress
 
 Which branch(es) you need to create for the project?
 
-- **master 
+- **master** 
 - 1-index branch  
 - 2-about branch  
 - 3-services branch
