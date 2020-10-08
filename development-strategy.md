@@ -13,6 +13,7 @@ Building a application theme for apple devices owners.
 This is a soft and lovely theme with some gorgeous customizable icons oriented for teenagers in love.
 
 ## Wireframe
+
 - [Home page](https://wireframe.cc/Amd3DJ)
 - [About](https://wireframe.cc/kGalXV)
 - [Services](https://wireframe.cc/z3znq7)
@@ -32,10 +33,14 @@ In progress
   - Clone the repo locally
   - Edit development strategy locally or in github
   - Add, commit, push or pull to github or locally to serve the work
-  
-  ### Branches
 
-Which branch(es) to work on?
+## 1. Full user story description
+
+- Working with _app-theme tutorials from Traversy Media_
+
+### 1. Branches
+
+Which branch(es) you need to create for the project?
 
 - master 
 - index  
@@ -43,13 +48,9 @@ Which branch(es) to work on?
 - services
 - contact
 
-### 1. Full user story description
+### 2. HTML
 
-1. Working with _app-theme tutorials from Traversy Media_
-
-### HTML
-
-2. Create the home page with file name `index.html`.
+1. After creating the branch on index (1-home), create the file `index.html`.
 
    - On the file index.html, create a Header and Nav menu,
    - _Showcase's_ section
@@ -58,26 +59,27 @@ Which branch(es) to work on?
    - Create a section with a resume of the _Company's info and Newsletter_.
    - Create a footer with a Copyright.
 
-3. Create about page with the file `about.html`.
+2. Create about page with the file `about.html` branch 2-about.
 
    - Retain the Header and nav menu from index.html.
    - Create now subheader with *about title*.
    - On the description page create the section with **Who We Are** and _What We Do_.
    - The company and footer section remain thesame from index.html.
 
-4. In the Services page create a file name `services.html`.
+3. In the Services page create a file name `services.html` branch 3-services.
 
    - All the codes from index.html remain thesame in company and footer section
    - Creat subheader with title Services
    - In this section create services that they offered and describe them.
 
-5. In the Contact page create a file name `contact.html`.
+4. In the Contact page create a file name `contact.html` branch 4-contact.
 
    - All the codes from index.html remain thesame in company and footer section
    - Creat subheader with title Conatct
    - In this section create Get in Touch with the company.
 
-### CSS
+### 3. CSS
+
 1. Add file `flexboxgrid.css`
    - The flexboxgrip works together with responsive model's mode in each html file.
 2. Add files of `font-awesomes.css` for each html files.
@@ -103,7 +105,7 @@ Which branch(es) to work on?
    - Pull the new master branch to your computer
    - Continue to the next step
 
-## Finishing Touches
+## 3.Finishing Touches
 
 Improving Readme with the link below.
 
