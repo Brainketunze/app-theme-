@@ -48,7 +48,7 @@ Which branch(es) you need to create for the project?
 - 3-services branch
 - 4-contact branch
 
-### 1. HTML
+## 2. HTML
 
 1. After creating the branch on index (1-home), create the file `index.html`.
 
@@ -78,7 +78,7 @@ Which branch(es) you need to create for the project?
    - Creat subheader with title Conatct
    - In this section create Get in Touch with the company.
 
-### 2. CSS
+## 3. CSS
 
 1. Add file `flexboxgrid.css`
    - The flexboxgrip works together with responsive model's mode in each html file.
@@ -87,7 +87,7 @@ Which branch(es) you need to create for the project?
 3. Add the file `style.css`
    - Style the html page with colors, backgroung, margin, font-size, padding border's etc...;
   
-## 3. Terminal
+## 4. Terminal
 
 1. Set up your repository and clone it
 2. Write a development strategy
@@ -105,7 +105,7 @@ Which branch(es) you need to create for the project?
    - Pull the new master branch to your computer
    - Continue to the next step
 
-## 4. Finishing Touches
+## 5. Finishing Touches
 
 Improving Readme with the link below.
 
