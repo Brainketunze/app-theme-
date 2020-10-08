@@ -38,47 +38,80 @@ In progress
 
 - Working with _app-theme tutorials from Traversy Media_
 
-## 2. Branches
+### Branches
 
 Which branch(es) you need to create for the project?
 
-- **master 
+- **master** 
 - 1-index branch  
 - 2-about branch  
 - 3-services branch
 - 4-contact branch
 
-### 1. HTML
+## 2. Home page. 
 
-1. After creating the branch on index (1-home), create the file `index.html`.
-
+### HTML
+   - Creating the branch on index (1-home), create the file `index.html` and open VS.
    - On the file index.html, create a Header and Nav menu,
    - _Showcase's_ section
    - Create a section page with some core features for the project.
    - Create info section for the mobile and core featues
    - Create a section with a resume of the _Company's info and Newsletter_.
    - Create a footer with a Copyright.
+   - Push changes to github using git bash terminal.
+   - Create Projection boards
+   
+### Css
+   - Create CSS folder
+   - Add `style.css` and styling elements
+   - Add flexboxgrip.css also
+   - Add font-awesome.css
+   
+## 3. About page. 
 
-2. Create about page with the file `about.html` branch 2-about.
-
+### HTML
+   - Create about page with the file `about.html` branch 2-about and open VS..
    - Retain the Header and nav menu from index.html.
-   - Create now subheader with *about title*.
-   - On the description page create the section with _Who We Are_ and _What We Do_.
+   - Create now subheader with **about title**.
+   - On the description page create the section with **Who We Are** and **What We Do**.
    - The company and footer section remain thesame from index.html.
+   - Push changes to github using git bash terminal.
+   - Create Projection boards
+   
+### CSS
+1. Add file `flexboxgrid.css`
+   - The flexboxgrip works together with responsive model's mode in each html file.
+2. Add files of `font-awesomes.css` for each html files.
+   - They add core feature's Logo's in index.file in the project
+3. Add the file `style.css`
+   - Style the html page with colors, backgroung, margin, font-size, padding border's etc...;
 
-3. In the Services page create a file name `services.html` branch 3-services.
-
+## 4. Services page
+   - In the Services page create a file name `services.html` branch 3-services and open VS..
    - All the codes from index.html remain thesame in company and footer section
    - Creat subheader with title Services
    - In this section create services that they offered and describe them.
+   - Push changes to github using git bash terminal.
+   - Create Projection boards
+   
+### CSS
+   
+1. Add file `flexboxgrid.css`
+   - The flexboxgrip works together with responsive model's mode in each html file.
+2. Add files of `font-awesomes.css` for each html files.
+   - They add core feature's Logo's in index.file in the project
+3. Add the file `style.css`
+   - Style the html page with colors, backgroung, margin, font-size, padding border's etc...;
 
-4. In the Contact page create a file name `contact.html` branch 4-contact.
-
+## 5. contact page
+   - Create a file name `contact.html` branch 4-contact and open VS..
    - All the codes from index.html remain thesame in company and footer section
    - Creat subheader with title Conatct
    - In this section create Get in Touch with the company.
+   - Push changes to github using git bash terminal.
+   - Create Projection boards
 
-### 2. CSS
+### CSS
 
 1. Add file `flexboxgrid.css`
    - The flexboxgrip works together with responsive model's mode in each html file.
@@ -87,7 +120,7 @@ Which branch(es) you need to create for the project?
 3. Add the file `style.css`
    - Style the html page with colors, backgroung, margin, font-size, padding border's etc...;
   
-## 3. Terminal
+## 6. Terminal
 
 1. Set up your repository and clone it
 2. Write a development strategy
@@ -105,7 +138,7 @@ Which branch(es) you need to create for the project?
    - Pull the new master branch to your computer
    - Continue to the next step
 
-## 3.Finishing Touches
+## 7. Finishing Touches
 
 Improving Readme with the link below.
 
